@@ -1,0 +1,9 @@
+---
+slug: :extract_retweeter
+depends:
+  mikutter: 3.9.0
+  plugin: []
+version: '1.0'
+author: shibafu528
+name: 'extract_retweeter'
+description: '抽出タブの条件に「リツイートしたユーザ名」を追加します。'
